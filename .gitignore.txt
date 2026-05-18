@@ -1,0 +1,92 @@
+# ====================
+# Операційна система
+# ====================
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+$RECYCLE.BIN/
+
+# ====================
+# IDE та редактори
+# ====================
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# ====================
+# Залежності та збірка
+# ====================
+node_modules/
+dist/
+build/
+out/
+target/
+bin/
+obj/
+
+# ====================
+# Логи
+# ====================
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ====================
+# Python
+# ====================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+*.egg-info/
+
+# ====================
+# Java
+# ====================
+*.class
+*.jar
+*.war
+*.ear
+
+# ====================
+# C / C++
+# ====================
+*.o
+*.obj
+*.exe
+*.out
+
+# ====================
+# Тимчасові файли
+# ====================
+*.tmp
+*.bak
+*.cache
+*~.lock
+
+# ====================
+# PlantUML
+# ====================
+*.tmp.png
+
+# ====================
+# Конфіденційні дані
+# ====================
+.env
+.env.local
+*.pem
+*.key
+secrets.json
